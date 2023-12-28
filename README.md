@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Idi Ooko</h1>
 <h3 align="center">A passionate DevOps Developer</h3>
 
