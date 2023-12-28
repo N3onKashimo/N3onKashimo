@@ -1,6 +1,6 @@
 
 <img src="https://github.com/N3onKashimo/N3onKashimo/blob/main/Header.png" alt="banner that says Welcome!">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3onKashimo)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm Idi Ooko</h1>
 <h3 align="center">A passionate DevOps Developer</h3>
 
