@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I am currently trying to make my own personal server for Media in hopes to cutout subscriptions from my life.**
 
-<h3 align="left">Connect with me: idimooko@gmail.com</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
