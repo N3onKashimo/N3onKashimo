@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://thelabbti.000webhostapp.com/](https://thelabbti.000webhostapp.com/)
 
-- 💬 Ask me about **My Minecraft Server I created for a church.**
+- 💬 Ask me about **My automated Minecraft Server.**
 
 - 📫 How to reach me **idimooko@gmail.com**
 
