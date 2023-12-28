@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+
 <img src="https://github.com/N3onKashimo/N3onKashimo/blob/main/Header.png" alt="banner that says Welcome!">
 <h1 align="center">Hi 👋, I'm Idi Ooko</h1>
 <h3 align="center">A passionate DevOps Developer</h3>
