@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **My automated Minecraft Server.**
 
-- 📫 How to reach me **idimooko@gmail.com**
+- 📫 How to reach me **imacoderfromsouthdacoder@gmail.com**
 
 - 📄 Know about my experiences [https://thelabbti.000webhostapp.com/resume](https://thelabbti.000webhostapp.com/resume)
 
