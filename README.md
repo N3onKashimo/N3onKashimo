@@ -1,26 +1,65 @@
+<img src="https://github.com/N3onKashimo/N3onKashimo/blob/main/Header.png" alt="Welcome banner" width="100%">
 
-<img src="https://github.com/N3onKashimo/N3onKashimo/blob/main/Header.png" alt="banner that says Welcome!">
+# Hi, I’m Idi 👋
+**DevOps engineer · UI/UX tinkerer · Homelab enthusiast**
 
-<h1 align="center">Hi 👋, I'm Idi</h1>
-<h3 align="center">A passionate DevOps Developer</h3>
+I design and automate things—from internal tools and small web apps to always-on game/media servers. I like clean UX, reliable infra, and turning scrappy ideas into working systems.
 
-- 🌱 I’m currently learning **AWS, and Python**
+- 🔭 **Current focus:** hardening homelab services (Plex/CasaOS), automating backups, and shipping a minimal Astro portfolio/blog.
+- 🌱 **Learning:** AWS fundamentals, Python for automation, IaC basics.
+- 🧪 **Recent experiments:** nightly Minecraft world backups (rclone + cron), one-click server restarts, and lightweight monitoring.
+- 💼 **Portfolio:** https://ididev.netlify.app  
+- 🧑‍💻 **All repos:** https://github.com/N3onKashimo  
+- 📫 **Reach me:** imacoderfromsouthdacoder@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/N3onKashimo](https://github.com/N3onKashimo)
+---
 
-- 📝 I regularly write articles on [https://thelabbti.000webhostapp.com/](https://thelabbti.000webhostapp.com/)
+## 🔧 What I build
+- **DevOps & Infra:** containers, simple CI/CD, backups, monitoring, “set-and-forget” scripts.
+- **Homelab:** Oracle/AWS free-tier experiments, Minecraft server automation, media server (Plex/CasaOS).
+- **UI/UX:** internal site mockups/wireframes for engineering workflows; fast HTML/CSS/JS prototypes.
 
-- 💬 Ask me about **My automated Minecraft Server.**
+---
 
-- 📫 How to reach me **imacoderfromsouthdacoder@gmail.com**
+## 🚀 Highlighted Projects
+- **Minecraft Server: Nightly Backups & Restore**
+  - rclone to cloud, cron scheduling, log rotation, quick restore script.
+  - Tags: `bash` `cron` `rclone` `oracle-cloud` `monitoring`
 
-- 📄 Know about my experiences [https://thelabbti.000webhostapp.com/resume](https://thelabbti.000webhostapp.com/resume)
+- **Media Server on CasaOS/Plex**
+  - Automated library scans, hardware-friendly transcode settings, user access control.
+  - Tags: `docker` `linux` `networking`
 
-- ⚡ Fun fact **I am currently trying to make my own personal server for Media in hopes to cutout subscriptions from my life.**
+- **Portfolio (Astro) + Blog**
+  - Minimal, fast, easy to extend with `.astro` or Markdown posts.
+  - Tags: `astro` `typescript` `css`
 
-<h3 align="left"></h3>
-<p align="left">
+> Want details or code links? Check my pinned repos on the profile page.
+
+---
+
+## 🛠️ Tech I use
+**Platforms/Infra:** Docker • Linux • AWS (learning) • Oracle Free Tier  
+**DevOps:** CI/CD basics • rclone • cron • shell scripting  
+**Langs/Tools:** Bash • Python (learning) • Git • HTML/CSS/TS  
+**Design:** Figma • Accessibility-first UI thinking
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="36" height="36"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## ✍️ Writing
+I post short notes/tutorials on my blog (infra tips, UI/UX lessons learned, homelab gotchas).  
+**Blog:** https://ididevops.netlify.app/blog
+
+---
+
+## 🧩 Fun stuff
+I like automating boring tasks, tweaking UX for internal tools, and hosting games/media so friends don’t have to pay subscriptions.
