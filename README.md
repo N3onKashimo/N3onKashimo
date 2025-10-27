@@ -64,8 +64,8 @@ I post short notes and tutorials on my blog — infra tips, UI/UX lessons learne
 
 ---
 
-## 📊 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/NeonKashimo?theme=nord&font=JetBrains%20Mono&animation=true&ext=activity)](https://leetcode.com/NeonKashimo)
+## 📊 LeetCode Profile
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-NeonKashimo-ffa116?logo=leetcode&logoColor=white)](https://leetcode.com/u/RgGPQfCIH7/)
 
 ---
 
