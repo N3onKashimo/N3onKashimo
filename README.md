@@ -65,7 +65,7 @@ I post short notes and tutorials on my blog — infra tips, UI/UX lessons learne
 ---
 
 ## 📊 LeetCode Profile
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-NeonKashimo-ffa116?logo=leetcode&logoColor=white)](https://leetcode.com/u/RgGPQfCIH7/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NeonKashimo?theme=dark&font=Open%20Sans&ext=activity)
 
 ---
 
