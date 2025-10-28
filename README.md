@@ -57,10 +57,13 @@ I like clean UX, reliable infra, and turning scrappy ideas into working systems.
 </p>
 
 ---
+## 🎓 WGU BSIT Progress
 
-## ✍️ Writing
-I post short notes and tutorials on my blog — infra tips, UI/UX lessons learned, and homelab gotchas.  
-**Blog:** [ididevops.netlify.app/blog](https://ididevops.netlify.app/blog)
+**Overall (includes transfer CUs)**  
+<img src="./progress/progress_bsit_overall.svg" width="460" alt="BSIT Overall Progress">
+
+**Current Term**  
+<img src="./progress/progress_bsit_current_term.svg" width="460" alt="Current Term Progress">
 
 ---
 
