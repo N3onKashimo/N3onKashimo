@@ -1,17 +1,17 @@
 <img src="https://raw.githubusercontent.com/N3onKashimo/N3onKashimo/main/Header.png" alt="Welcome banner" width="100%">
 
 # Hi, I’m Idi 👋  
-**DevOps Engineer · UI/UX Tinkerer · Homelab Enthusiast**
+**Aspiring DevOps Engineer · UI/UX Tinkerer · Homelab Enthusiast**
 
 I design and automate things — from internal tools and small web apps to always-on game/media servers.  
 I like clean UX, reliable infra, and turning scrappy ideas into working systems.
 
+- 🎯 **Career Goal:** DevOps Engineer — currently building foundational skills through homelab practice  
 - 🔭 **Current focus:** Hardening homelab services (Plex/CasaOS), automating backups, and shipping a minimal Astro portfolio/blog.  
-- 🌱 **Learning:** AWS fundamentals, Python for automation, and Infrastructure as Code (IaC).  
+- 🌱 **Learning:** AWS Cloud Practitioner (target: July 2026), Security+ (target: July 2026), Python for automation  
 - 🧪 **Recent experiments:** Nightly Minecraft world backups (rclone + cron), one-click server restarts, and lightweight monitoring.  
 - 💼 **Portfolio:** [ididev.netlify.app](https://ididev.netlify.app)  
 - 🧑‍💻 **All repos:** [github.com/N3onKashimo](https://github.com/N3onKashimo)  
-- 📫 **Reach me:** imacoderfromsouthdacoder@gmail.com  
 
 ---
 
